@@ -42,7 +42,7 @@
         {% if site.resume_looking_for_work == 'yes' %}
         <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
         {% elsif site.resume_looking_for_work == 'no' %}
-        <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
+        <a class="contact-button not-looking no-print">I'm not looking for work right now</a>
         {% else %}
         {% endif %}
 
@@ -122,11 +122,11 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Skills</h2>
+          <h2>Tools</h2>
         </header>
         {% for skill in site.data.skills %}
         <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
+          <p class="resume-item-details">{{ skill.skill }}</h4>
           <p class="resume-item-copy">{{ skill.description }}</p>
         </div>
         {% endfor %}
@@ -230,11 +230,6 @@
       </section>
       <!-- end Print Social Links -->
       {% endif %}
-
-      <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
-      </footer>
 
     </div>
 

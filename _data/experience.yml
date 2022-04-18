@@ -1,19 +1,63 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Too Good To Go
+  position: Machine Learning Engineer
+  duration: Oct 2021 &mdash; Present
+  summary: >
+    Currently building a recommender system from scratch, attempting to increase the proportion of users who are able to find relevant items in our app. 
+    I work across the full ML spectrum, from EDA and model development to deployment and MLOps pipelines.
+  
+- company: John Lewis Partnership
+  position: Lead Data Scientist, Product Recommendations
+  duration: Mar 2021 &mdash; Oct 2021
+  summary: >
+    Leading a team of 4 in the design and execution of data science and data engineering work, focusing on development of existing and new recommendations models - whilst still writing production code. 
+    Achievements:
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+    <ul class="resume-item-list">
+    <li>Implemented hyperparameter tuning using sklearn pipelines across all in-house models - boosting recommendation performance in A/B tests</li>
+    <li>Iterated on a sequence learning (Prod2Vec) model built on web browsing data in Tensorflow by exposing extra hyperparameters</li>
+    </ul>
 
+- position: Data Scientist, Product Recommendations
+  duration: Aug 2020 &mdash; Mar 2021
+  summary: >
+    Responsible for developing in-house recommendation algorithms and ensure they deliver good results in production. 
+    Achievements:
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+    <ul class="resume-item-list">
+    <li>Productionised a previously tested model on GCP, using AI Platform for training and serving</li>
+    <li>Drove implementation a solution for more granular analysis of A/B tests using Airflow and Bigquery</li>
+    <li>Organised a regular journal club session, where we discuss recent publications and use them to inform our product roadmap</li>
+    </ul>
+
+- position: Data Scientist
+  duration: Apr 2018 &mdash; Aug 2020
+  summary: >
+    I worked on a variety of different projects as one of the first members of a new Data Science team,
+    gaining exposure to a number of different business areas and modelling techniques, including:
+
+    <ul class="resume-item-list">
+    <li>Product demand forecasting</li>
+    <li>Online order forecasting</li>
+    <li>Supply chain optimisation using vehicle routing models</li>
+    <li>Warehouse process simulation and optimisation</li>
+    <li>Evaluation of experiments using counterfactual methods</li>
+    </ul>
+
+- company: Kubrick Group
+  position: Data Scientist
+  duration: Jan 2018 &mdash; Apr 2018
+  summary: >
+    Kubrick provided me with 4 months of core training in data problem solving along with 
+    the key technologies needed to succeed as a data scientist:
+
+    <ul class="resume-item-list">
+    <li>Core Python - data structures, IO, OOP paradigms</li>
+    <li>Python libraries for data science & machine learning - sklearn, pandas, numpy</li>
+    <li>Advanced SQL</li>
+    <li>Git</li>
+    </ul>
+
+    This training culminated in a group project in which my contribution was to use the Twitter API
+    to perform an analysis of public perception of different brands based on exemplar accounts.   
+    This methodology was adapted from - Culotta, A. and Cutler, J., 2016. Mining brand perceptions from twitter social networks
