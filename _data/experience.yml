@@ -21,20 +21,20 @@
 - position: Data Scientist, Product Recommendations
   duration: Aug 2020 &mdash; Mar 2021
   summary: >
-    Responsible for developing in-house recommendation algorithms and ensure they deliver good results in production. 
+    Responsible for developing in-house recommendation algorithms and ensured they delivered good results in production. 
     Achievements:
 
     <ul class="resume-item-list">
     <li>Productionised a previously tested model on GCP, using AI Platform for training and serving</li>
-    <li>Drove implementation a solution for more granular analysis of A/B tests using Airflow and Bigquery</li>
-    <li>Organised a regular journal club session, where we discuss recent publications and use them to inform our product roadmap</li>
+    <li>Drove implementation of a solution for more granular analysis of A/B tests using Airflow and Bigquery</li>
+    <li>Organised a regular journal club session, where we discussed recent publications and used them to inform our product roadmap</li>
     </ul>
 
 - position: Data Scientist
   duration: Apr 2018 &mdash; Aug 2020
   summary: >
     Worked on a variety of different projects as one of the first members of a new Data Science team,
-    gaining exposure to a number of different business areas and modelling techniques, including:
+    and gained exposure to a number of different business areas and modelling techniques, including:
 
     <ul class="resume-item-list">
     <li>Product demand forecasting</li>
@@ -48,7 +48,7 @@
   position: Data Scientist
   duration: Jan 2018 &mdash; Apr 2018
   summary: >
-    Kubrick provided me with 4 months of core training in data problem solving along with 
+    Kubrick provided 4 months of core training in data problem solving along with 
     the key technologies needed to succeed as a data scientist:
 
     <ul class="resume-item-list">
