@@ -2,14 +2,17 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 - project: DataKind
-  role: Volunteer & Data Ambassador
-  duration: 2021
+  role: DataDive Volunteer & Data Ambassador
+  duration: 2021 - Present
   url: "https://www.datakind.org/"
-  description: Volunteered on multiple DataDives - which help charities extract value from their data using data science techniques. I also helped to organise one of these events - by framing key analytical questions, cleaning and documenting data, and liaising with charity representatives
+  description: Volunteered on multiple DataDives - which help charities extract
+  value from their data using data science techniques. I also helped to organise
+  one of these events as a Data Ambassador - by framing key analytical questions, cleaning and
+  documenting data, and liaising with charity representatives to enable
+  volunteers to develop good solutions.
 
 
-# Springfield Community Outreach Group
-- project: Saturdays.AI
+- project: Saturdays.AI Copenhagen
   role: Volunteer Mentor
   duration: 2022
   url: "https://saturdays.ai/"

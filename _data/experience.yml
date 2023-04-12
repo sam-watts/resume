@@ -1,15 +1,15 @@
 # Jobs
 - company: Too Good To Go
   position: Machine Learning Engineer
-  duration: Oct 2021 &mdash; Present
+  duration: Oct 2021 &mdash; Mar 2023
   summary: >
-    I've primarily been working on building a product recommendation system from the ground up.
-    I work across a range of ML areas, from EDA and model development, to CI/CD and productionising model workflows.
+    I worked on building a product recommendation system from the ground up.
+    My work spanned a range of ML areas, from EDA and model development, to CI/CD and productionising model workflows.
 
     <ul class="resume-item-list">
     <li>Designed and implemented a recommender model that increased user purchase conversion by 0.6% pp versus the baseline in A/B tests</li>
     <li>Led the adoption of <a href=https://metaflow.org/>Metaflow</a> as our ML Worklow tool, significantly speeding up development</li>
-    <li>Currently experimenting with new modelling approaches inspired by RecSys 2022</li>
+    <li>Experimented with new modelling approaches inspired by RecSys 2022</li>
     </ul>
   
 - company: John Lewis Partnership
