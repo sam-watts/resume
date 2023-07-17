@@ -7,8 +7,8 @@
     My work spanned a range of ML areas, from EDA and model development, to CI/CD and productionising model workflows.
 
     <ul class="resume-item-list">
-    <li>Designed and implemented a recommender model that increased user purchase conversion by 0.6% pp versus the baseline in A/B tests</li>
-    <li>Led the adoption of <a href=https://metaflow.org/>Metaflow</a> as our ML Worklow tool, significantly speeding up development</li>
+    <li>Designed and implemented a recommender model that increased user purchase conversion by 0.6% pp versus a baseline in A/B tests</li>
+    <li>Led the adoption of <a href=https://metaflow.org/>Metaflow</a> as our ML Workflow tool, significantly speeding up development</li>
     <li>Experimented with new modelling approaches inspired by RecSys 2022</li>
     </ul>
   
