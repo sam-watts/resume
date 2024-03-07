@@ -7,6 +7,11 @@
     develop deep learning models for the early detection of Age-related Macular
     Degeneration, Glaucoma and other retinal diseases.
 
+    <ul class="resume-item-list">
+    <li>Implemented semantic segmentation and classification models in Pytorch</li>
+    <li>Worked with retinal imaging foundation models using ViT architectures</li>
+    </ul>
+
 - company: Too Good To Go
   position: Machine Learning Engineer
   duration: Oct 2021 &mdash; Mar 2023
