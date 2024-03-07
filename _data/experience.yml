@@ -1,4 +1,12 @@
 # Jobs
+- company: Edinburgh University
+  position: Research Fellow
+  duration: Aug 2023 &mdash; Present
+  summary: >
+    I am currently working with a novel retinal image dataset to
+    develop deep learning models for the early detection of Age-related Macular
+    Degeneration, Glaucoma and other retinal diseases.
+
 - company: Too Good To Go
   position: Machine Learning Engineer
   duration: Oct 2021 &mdash; Mar 2023
