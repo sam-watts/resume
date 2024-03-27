@@ -70,7 +70,7 @@
   }
 
   .executive-summary {
-    @include media_larger_than_mobile { font-size: 1.125rem; }
+    // @include media_larger_than_mobile { font-size: 1.125rem; }
   }
 }
 
@@ -197,6 +197,21 @@
 .print-only { display: none !important }
 
 @media print {
+  h3 {
+    padding-top: 2px;
+  }
+  div {
+    break-inside: avoid;
+  }
+  h2 {
+    page-break-inside: avoid;
+  }
+  h2::after {
+    content: "";
+    display: block;
+    height: 100px;
+    margin-bottom: -100px;
+  }
   .no-print { display: none !important }
   .print-only { display: block !important }
   body { font-size: 12px; line-height: 1rem; }
