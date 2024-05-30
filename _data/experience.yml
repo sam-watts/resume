@@ -1,9 +1,18 @@
 # Jobs
+- company: Continuum Industries
+  position: AI Engineer
+  duration: May 2024 &mdash; Present
+  summary: >
+    I'm working with genetic algorithms and machine learning to create tools that enhance the design of large-scale 
+    linear infrastructure projects - most noteably electricity transmission lines, whose fast development is crucial for
+    the transition to renewable energy.
+
+
 - company: University of Edinburgh
   position: Research Fellow
   duration: Aug 2023 &mdash; Mar 2024
   summary: >
-    I am currently working with a novel retinal image dataset to
+    I worked with a novel retinal image dataset to
     develop deep learning models for the early detection of Age-related Macular
     Degeneration, Glaucoma and other retinal diseases.
 
