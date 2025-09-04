@@ -1,29 +1,35 @@
 # Jobs
 - company: Continuum Industries
-  position: AI Engineer
-  duration: May 2024 &mdash; Present
+  position: Senior AI Engineer
+  duration: May 2024 &mdash; Aug 2025 • 1yr 4m
   summary: >
-    I'm working with genetic algorithms and machine learning to create tools that enhance the design of large-scale 
-    linear infrastructure projects - most noteably electricity transmission lines, whose fast development is crucial for
+    I worked with genetic algorithms, machine learning and geospatial data to create tools that speed up the design of large-scale 
+    linear infrastructure projects; most notably electricity transmission lines, whose fast development is crucial for
     the transition to renewable energy.
+
+    <ul class="resume-item-list">
+    <li>Led improvements to genetic algorithms, including smart visualisation of spatially diverse routes and efficient parallel runs of the core algorithms</li>
+    <li>Developed 2 ML prototypes to extract data from analog maps and measure the width of roads from satellite imagery</li>
+    <li>Developed LLM-based tools for analysing possible transmission routes and generating technical reports</li>
+    </ul>
 
 
 - company: University of Edinburgh
   position: Research Fellow
-  duration: Aug 2023 &mdash; Mar 2024
+  duration: Aug 2023 &mdash; Mar 2024 • 8mos
   summary: >
     I worked with a novel retinal image dataset to
     develop deep learning models for the early detection of Age-related Macular
     Degeneration, Glaucoma and other retinal diseases.
 
     <ul class="resume-item-list">
-    <li>Implemented semantic segmentation and classification models in Pytorch</li>
+    <li>Implemented semantic segmentation and classification models in pytorch</li>
     <li>Worked with retinal imaging foundation models using ViT architectures</li>
     </ul>
 
 - company: Too Good To Go
   position: Machine Learning Engineer
-  duration: Oct 2021 &mdash; Mar 2023
+  duration: Oct 2021 &mdash; Mar 2023 • 1yr 6mos
   summary: >
     I worked on building a product recommendation system from the ground up.
     My work spanned a range of ML areas, from EDA and model development, to CI/CD and productionising model workflows.
@@ -36,7 +42,7 @@
   
 - company: John Lewis Partnership
   position: Lead Data Scientist, Product Recommendations
-  duration: Mar 2021 &mdash; Oct 2021
+  duration: Mar 2021 &mdash; Oct 2021 • 8mos
   summary: >
     Led a team of 4 in the design and execution of data science and data engineering work, focusing on development of existing and new recommendations models - whilst still writing production code. 
     Achievements:
@@ -47,7 +53,7 @@
     </ul>
 
 - position: Data Scientist, Product Recommendations
-  duration: Aug 2020 &mdash; Mar 2021
+  duration: Aug 2020 &mdash; Mar 2021 • 8mos
   summary: >
     Responsible for developing in-house recommendation algorithms and ensured they delivered good results in production. 
     Achievements:
@@ -59,14 +65,13 @@
     </ul>
 
 - position: Data Scientist
-  duration: Apr 2018 &mdash; Aug 2020
+  duration: Apr 2018 &mdash; Aug 2020 • 2yrs 5mos
   summary: >
     Worked on a variety of different projects as one of the first members of a new Data Science team,
     and gained exposure to a number of different business areas and modelling techniques, including:
 
     <ul class="resume-item-list">
     <li>Product demand forecasting</li>
-    <li>Online order forecasting</li>
     <li>Supply chain optimisation using vehicle routing models</li>
     <li>Warehouse process simulation and optimisation</li>
     <li>Evaluation of experiments using counterfactual methods</li>
@@ -74,7 +79,7 @@
 
 - company: Kubrick Group
   position: Data Scientist
-  duration: Jan 2018 &mdash; Apr 2018
+  duration: Jan 2018 &mdash; Apr 2018 • 4mos
   summary: >
     Kubrick provided 4 months of core training in data problem solving along with 
     the key technologies needed to succeed as a data scientist:

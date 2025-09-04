@@ -1,12 +1,12 @@
 # Skills
 
 - skill: • Python
-- skill: • ML libraries - sklearn, tensorflow, pytorch
+- skill: • ML libraries - sklearn, tensorflow, pytorch, pandas
 - skill: • SQL - Redshift, Bigquery, MSSQL, Teradata, dbt
 - skill: • Cloud Platforms - AWS & Google Cloud
 - skill: • Git
 - skill: • Docker
 - skill: • CI/CD - Gitlab, Jenkins, Github Actions
-- skill: • ML Workflows - Metaflow & AWS Sagemaker
+- skill: • ML Workflows - Metaflow, AWS Sagemaker
 - skill: • Terraform
 - skill: • Airflow
