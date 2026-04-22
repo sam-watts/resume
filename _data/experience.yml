@@ -1,6 +1,13 @@
 # Jobs
+- company: GreenFlip
+  position: Founding ML Engineer
+  duration: Sep 2025 &mdash; Now
+  summary: >
+    Building ML models to assess residential homes for low-carbon heating retrofit. Working across computer vision, geospatial, tabular modelling.
+    My initial solar panel placement algorithm has higher accuracy than the Google Solar API on UK homes.
+
 - company: Continuum Industries
-  position: Senior AI Engineer
+  position: Senior Software Engineer
   duration: May 2024 &mdash; Aug 2025 • 1yr 4m
   summary: >
     I worked with genetic algorithms, machine learning and geospatial data to create tools that speed up the design of large-scale 
