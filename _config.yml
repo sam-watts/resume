@@ -1,6 +1,8 @@
 # Site settings
 title: "Sam Watts - Resume"
 description: ""
+url: "https://swatts.xyz"
+baseurl: "/resume"
 
 # Build settings
 markdown: kramdown
