@@ -2,7 +2,7 @@
 title: "Sam Watts - Resume"
 description: ""
 url: "https://swatts.xyz"
-baseurl: "/resume"
+baseurl: "/cv"
 
 # Build settings
 markdown: kramdown
